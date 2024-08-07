@@ -1,0 +1,30 @@
+.parallax {
+  width: 100vw;
+  overflow: hidden;
+  line-height: 0.8;
+  margin: 0;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+  padding: 16px 0 24px 0;
+  margin-top: 65px;
+}
+
+.parallax .scroller {
+  width: 100%;
+  font-weight: 600;
+  text-transform: uppercase;
+  font-size: clamp(2rem, 4.5vw, 6rem);
+  display: flex;
+  white-space: nowrap;
+  display: flex;
+  flex-wrap: nowrap;
+}
+
+.parallax span {
+  display: block;
+  width: 100%;
+  margin-right: 50px;
+  color: #4c4c4c;
+  font-family: freight-big-pro, serif;
+}

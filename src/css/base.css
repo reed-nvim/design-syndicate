@@ -1,0 +1,253 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+:root {
+  font-size: 18px;
+}
+
+body {
+  margin: 0;
+  --color-text: #fff;
+  --color-bg: #000;
+  --color-link: #fff;
+  --color-link-hover: #fff;
+  --color-frame: #ff5ba4;
+  color: var(--color-text);
+  background-color: var(--color-bg);
+  font-family: rucksack, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Page Loader */
+.js .loading::before,
+.js .loading::after {
+  content: '';
+  position: fixed;
+  z-index: 1000;
+}
+
+.js .loading::before {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: var(--color-bg);
+}
+
+.js .loading::after {
+  top: 50%;
+  left: 50%;
+  width: 60px;
+  height: 60px;
+  margin: -30px 0 0 -30px;
+  border-radius: 50%;
+  opacity: 0.4;
+  background: var(--color-link);
+  animation: loaderAnim 0.7s linear infinite alternate forwards;
+}
+
+@keyframes loaderAnim {
+  to {
+    opacity: 1;
+    transform: scale3d(0.5, 0.5, 1);
+  }
+}
+
+a {
+  text-decoration: none;
+  color: var(--color-link);
+  outline: none;
+  position: relative;
+}
+
+.home-banner a::after {
+  content: '';
+  position: absolute;
+  width: 50%;
+  height: 1px;
+  background: currentColor;
+  left: 0;
+  bottom: -25%;
+  transform: scale3d(0, 1, 1);
+  opacity: 0;
+  transform-origin: 0% 50%;
+  transition: transform 0.3s, opacity 0s 0.3s;
+}
+
+a:hover::after {
+  opacity: 1;
+  transition: transform 0.3s;
+  transform: scale3d(1, 1, 1);
+}
+
+a:hover {
+  color: var(--color-link-hover) !important;
+  color: #3b82f6 !important;
+  outline: none;
+}
+
+/* Better focus styles from https://developer.mozilla.org/en-US/docs/Web/CSS/:focus-visible */
+a:focus {
+  /* Provide a fallback style for browsers
+	 that don't support :focus-visible */
+  outline: none;
+  color: #3b82f6 !important;
+}
+
+a:focus:not(:focus-visible) {
+  /* Remove the focus indicator on mouse-focus for browsers
+	 that do support :focus-visible */
+  background: transparent;
+}
+
+a:focus-visible {
+  /* Draw a very noticeable focus style for
+	 keyboard-focus on browsers that do support
+	 :focus-visible */
+  outline: 2px solid red;
+  background: transparent;
+}
+
+
+.slideshow {
+  width: 100vw;
+  height: calc(100vh - 13rem);
+  position: relative;
+  overflow: hidden;
+}
+
+.slide {
+  margin: 0;
+}
+
+.slide,
+.slide__img-wrap,
+.slide__img {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+}
+
+.slide {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.js .slide {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.js .slide--current {
+  opacity: 1;
+  pointer-events: auto;
+}
+
+.slide__img-wrap {
+  will-change: transform;
+  overflow: hidden;
+}
+
+.slide__img {
+  background-size: cover;
+  will-change: transform;
+  -webkit-backspace-visibility: hidden;
+}
+
+.slide__caption {
+  position: relative;
+  padding: 0 10vw;
+  cursor: default;
+  width: 100%;
+}
+
+.slides__caption-headline {
+  /* font-size: 4.5vw; */
+  font-size: clamp(2rem, 4.5vw, 6rem);
+  line-height: 0.9;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: normal;
+}
+
+.text-row {
+  position: relative;
+  overflow: hidden;
+  display: block;
+  white-space: nowrap;
+}
+
+.text-row>span {
+  display: block;
+  position: relative;
+  padding: 0.5rem 0;
+}
+
+.slides__caption-headline {
+  font-weight: 300;
+  font-size: clamp(2.4rem, 4.5vw, 6rem);
+}
+
+.slides__caption-headline em,
+.slides__caption-headline strong {
+  font-family: freight-big-pro, serif;
+  font-size: clamp(2.1rem, 4.5vw, 6rem);
+}
+
+.slides__caption-headline em {
+  font-weight: 400;
+  font-style: italic;
+}
+
+.slides__caption-headline strong {
+  font-weight: 400;
+}
+
+.headline-title {
+  line-height: 0.9;
+  margin: 0;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: freight-big-pro, serif;
+  font-size: clamp(2.1rem, 3vw, 3rem);
+  display: block;
+  margin-bottom: 14px;
+}
+
+.fancy-headline-font-dark {
+  margin: 0;
+  font-weight: 600;
+  font-family: freight-big-pro, serif;
+  color: #4c4c4c;
+  display: block;
+  cursor: default;
+}
+
+.fancy-headline-font-light {
+  margin: 0;
+  font-weight: 600;
+  font-family: freight-big-pro, serif;
+  color: #fff;
+  display: block;
+  cursor: default;
+}
+
+.react-multiple-carousel__arrow {
+    background: #222222c9 !important;
+}
+
+.react-multi-carousel-dot-list {
+  background: #222222c9;
+  padding: 2px 4px;
+  width:fit-content;
+  margin:auto;
+  border-radius: 5px;
+  padding-bottom: 5px;
+}
