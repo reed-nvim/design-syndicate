@@ -1,0 +1,593 @@
+[
+  {
+    "Category": "Murals",
+    "SKU": "ABSTRACT001",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Abstract",
+    "Colors": {
+      "Blue": "#0000ff",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "ABSTRACT001.jpeg",
+      "ABSTRACT001-2.jpeg",
+      "ABSTRACT001-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "ABSTRACT002",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Abstract",
+    "Colors": {
+      "Pink": "#ffc0cb",
+      "Red": "#ff0000"
+    },
+    "Images": [
+      "ABSTRACT002.jpeg",
+      "ABSTRACT002-2.jpeg",
+      "ABSTRACT002-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "ABSTRACT003",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Abstract",
+    "Colors": {
+      "Lavender": "#e6e6fa",
+      "Pink": "#ffc0cb"
+    },
+    "Images": [
+      "ABSTRACT003.jpeg",
+      "ABSTRACT003-2.jpeg",
+      "ABSTRACT003-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "ABSTRACT004",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Abstract",
+    "Colors": {
+      "Peach": "Color 'Peach' not found or not recognized.",
+      "Sage": "Color 'Sage' not found or not recognized.",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "ABSTRACT004.jpeg",
+      "ABSTRACT004-2.jpeg",
+      "ABSTRACT004-3.jpeg",
+      "ABSTRACT004-4.jpeg",
+      "ABSTRACT004-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "ABSTRACT005",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Abstract",
+    "Colors": {
+      "Blue": "#0000ff",
+      "Pink": "#ffc0cb",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "ABSTRACT005.jpeg",
+      "ABSTRACT005-2.jpeg",
+      "ABSTRACT005-3.jpeg",
+      "ABSTRACT005-4.jpeg",
+      "ABSTRACT005-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "ANIMALPRINT001",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Animal Print",
+    "Colors": {
+      "Black": "#000000",
+      "Green": "#008000",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "ANIMALPRINT001.jpeg",
+      "ANIMALPRINT001-2.jpeg",
+      "ANIMALPRINT001-3.jpeg",
+      "ANIMALPRINT001-4.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL001",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Black": "#000000",
+      "Green": "#008000",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "FLORAL001.jpeg",
+      "FLORAL001-2.jpeg",
+      "FLORAL001-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL002",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Blue": "#0000ff",
+      "Green": "#008000",
+      "Pink": "#ffc0cb"
+    },
+    "Images": [
+      "FLORAL002.jpeg",
+      "FLORAL002-2.jpeg",
+      "FLORAL002-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL003",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Green": "#008000",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "FLORAL003.jpeg",
+      "FLORAL003-2.jpeg",
+      "FLORAL003-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL004",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Blue": "#0000ff",
+      "Grey": "#808080",
+      "Peach": "Color 'Peach' not found or not recognized.",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "FLORAL004.jpeg",
+      "FLORAL004-2.jpeg",
+      "FLORAL004-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL005",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Lavendar": "Color 'Lavendar' not found or not recognized.",
+      "Peach": "Color 'Peach' not found or not recognized.",
+      "Pink": "#ffc0cb",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "FLORAL005.jpeg",
+      "FLORAL005-2.jpeg",
+      "FLORAL005-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL006",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Cream": "#FFFDD0",
+      "Green": "#008000"
+    },
+    "Images": [
+      "FLORAL006.jpeg",
+      "FLORAL006-2.jpeg",
+      "FLORAL006-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL007",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Terracotta": "#C04C33",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "FLORAL007.jpeg",
+      "FLORAL007-2.jpeg",
+      "FLORAL007-3.jpeg",
+      "FLORAL007-4.jpeg",
+      "FLORAL007-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "FLORAL008",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Floral",
+    "Colors": {
+      "Black": "#000000",
+      "Blue": "#0000ff",
+      "Pink": "#ffc0cb"
+    },
+    "Images": [
+      "FLORAL008.jpeg",
+      "FLORAL008-2.jpeg",
+      "FLORAL008-3.jpeg",
+      "FLORAL008-4.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "GEOMETRIC001",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Geometric",
+    "Colors": {
+      "Black": "#000000",
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "GEOMETRIC001.jpeg",
+      "GEOMETRIC001-2.jpeg",
+      "GEOMETRIC001-3.jpeg",
+      "GEOMETRIC001-4.jpeg",
+      "GEOMETRIC001-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "GEOMETRIC002",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Geometric",
+    "Colors": {
+      "Black": "#000000",
+      "Grey": "#808080",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "GEOMETRIC002.jpeg",
+      "GEOMETRIC002-2.jpeg",
+      "GEOMETRIC002-3.jpeg",
+      "GEOMETRIC002-4.jpeg",
+      "GEOMETRIC002-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "GEOMETRIC003",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Geometric",
+    "Colors": {
+      "Black": "#000000",
+      "Gold": "#ffd700"
+    },
+    "Images": [
+      "GEOMETRIC003.jpeg",
+      "GEOMETRIC003-2.jpeg",
+      "GEOMETRIC003-3.jpeg",
+      "GEOMETRIC003-4.jpeg",
+      "GEOMETRIC003-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "PAINTEFFECTS001",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "PaintEffects",
+    "Colors": {
+      "Blue": "#0000ff",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "PAINTEFFECTS001.jpeg",
+      "PAINTEFFECTS001-2.jpeg",
+      "PAINTEFFECTS001-3.jpeg",
+      "PAINTEFFECTS001-4.jpeg",
+      "PAINTEFFECTS001-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "PAINTEFFECTS002",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "PaintEffects",
+    "Colors": {
+      "Black": "#000000"
+    },
+    "Images": [
+      "PAINTEFFECTS002.jpeg",
+      "PAINTEFFECTS002-2.jpeg",
+      "PAINTEFFECTS002-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "PAINTEFFECTS003",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "PaintEffects",
+    "Colors": {
+      "Dusty Pink": "#ffc0cb"
+    },
+    "Images": [
+      "PAINTEFFECTS003.jpeg",
+      "PAINTEFFECTS003-2.jpeg",
+      "PAINTEFFECTS003-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "PAINTEFFECTS004",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "PaintEffects",
+    "Colors": {
+      "Blue": "#0000ff"
+    },
+    "Images": [
+      "PAINTEFFECTS004.jpeg",
+      "PAINTEFFECTS004-2.jpeg",
+      "PAINTEFFECTS004-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "PAINTEFFECTS005",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "PaintEffects",
+    "Colors": {
+      "Pastel Pink & Pastel Mauve": "Color 'Pastel Pink & Pastel Mauve' not found or not recognized."
+    },
+    "Images": [
+      "PAINTEFFECTS005.jpeg",
+      "PAINTEFFECTS005-2.jpeg",
+      "PAINTEFFECTS005-3.jpeg",
+      "PAINTEFFECTS005-4.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "TROPICAL001",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Tropical",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Sage": "Color 'Sage' not found or not recognized.",
+      "Terracota": "Color 'Terracota' not found or not recognized."
+    },
+    "Images": [
+      "TROPICAL001.jpeg",
+      "TROPICAL001-2.jpeg",
+      "TROPICAL001-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "TROPICAL002",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Tropical",
+    "Colors": {
+      "Blue": "#0000ff",
+      "Orange": "#ffa500",
+      "Sage": "Color 'Sage' not found or not recognized."
+    },
+    "Images": [
+      "TROPICAL002.jpeg",
+      "TROPICAL002-2.jpeg",
+      "TROPICAL002-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "TROPICAL003",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Tropical",
+    "Colors": {
+      "Green": "#008000",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "TROPICAL003.jpeg",
+      "TROPICAL003-2.jpeg",
+      "TROPICAL003-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "TROPICAL004",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Tropical",
+    "Colors": {
+      "Blue": "#0000ff",
+      "Brown": "#a52a2a"
+    },
+    "Images": [
+      "TROPICAL004.jpeg",
+      "TROPICAL004-2.jpeg",
+      "TROPICAL004-3.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "TROPICAL005",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Tropical",
+    "Colors": {
+      "Green": "#008000",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "TROPICAL005.jpeg",
+      "TROPICAL005-2.jpeg",
+      "TROPICAL005-3.jpeg",
+      "TROPICAL005-4.jpeg",
+      "TROPICAL005-5.jpeg"
+    ]
+  },
+  {
+    "Category": "Murals",
+    "SKU": "TROPICAL006",
+    "ParentCategories": [
+      "Murals",
+      "Standard Stock Ranges"
+    ],
+    "Description": "",
+    "RollSize": "sold per m\u00b2",
+    "Styles": "Tropical",
+    "Colors": {
+      "Green": "#008000",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "TROPICAL006.jpeg",
+      "TROPICAL006-2.jpeg",
+      "TROPICAL006-3.jpeg",
+      "TROPICAL006-4.jpeg",
+      "TROPICAL006-5.jpeg"
+    ]
+  }
+]

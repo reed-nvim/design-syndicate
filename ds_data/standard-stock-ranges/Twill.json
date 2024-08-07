@@ -1,0 +1,127 @@
+[
+  {
+    "Category": "Twill",
+    "SKU": "TWIL001",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Twill"
+    ],
+    "Description": "Vinyl Wallpaper\nFully Washable, Excellent Lightfastness, Paste onto Wall",
+    "RollSize": "50m x 1.3m",
+    "Styles": "Classic Weave",
+    "Colors": {
+      "White": "#ffffff"
+    },
+    "Images": [
+      "SKU TWIL001.jpeg",
+      "SKU TWIL001-2.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Twill",
+    "SKU": "TWIL003",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Twill"
+    ],
+    "Description": "Vinyl Wallpaper\nFully Washable, Excellent Lightfastness, Paste onto Wall",
+    "RollSize": "50m x 1.3m",
+    "Styles": "Classic Weave",
+    "Colors": {
+      "Dark Grey": "#808080"
+    },
+    "Images": [
+      "SKU TWIL003.jpeg",
+      "SKU TWIL003-2.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Twill",
+    "SKU": "TWIL004",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Twill"
+    ],
+    "Description": "Vinyl Wallpaper\nFully Washable, Excellent Lightfastness, Paste onto Wall",
+    "RollSize": "50m x 1.3m",
+    "Styles": "Classic Weave",
+    "Colors": {
+      "Brown": "#a52a2a"
+    },
+    "Images": [
+      "SKU TWIL004.jpeg",
+      "SKU TWIL004-2.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Twill",
+    "SKU": "TWIL005",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Twill"
+    ],
+    "Description": "Vinyl Wallpaper\nFully Washable, Excellent Lightfastness, Paste onto Wall",
+    "RollSize": "50m x 1.3m",
+    "Styles": "Classic Weave",
+    "Colors": {
+      "Charcoal": "Color 'Charcoal' not found or not recognized."
+    },
+    "Images": [
+      "SKU TWIL005.jpeg",
+      "SKU TWIL005-2.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Twill",
+    "SKU": "TWIL006",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Twill"
+    ],
+    "Description": "Vinyl Wallpaper\nFully Washable, Excellent Lightfastness, Paste onto Wall",
+    "RollSize": "50m x 1.3m",
+    "Styles": "Classic Weave",
+    "Colors": {
+      "Light Grey": "#808080"
+    },
+    "Images": [
+      "SKU TWIL006.jpeg",
+      "SKU TWIL006-2.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Twill",
+    "SKU": "TWIL009",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Twill"
+    ],
+    "Description": "Vinyl Wallpaper\nFully Washable, Excellent Lightfastness, Paste onto Wall",
+    "RollSize": "50m x 1.3m",
+    "Styles": "Classic Weave",
+    "Colors": {
+      "Blue": "#0000ff"
+    },
+    "Images": [
+      "SKU TWIL009.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  }
+]

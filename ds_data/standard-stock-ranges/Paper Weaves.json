@@ -1,0 +1,59 @@
+[
+  {
+    "Category": "Paper Weaves",
+    "SKU": "PPWY016",
+    "ParentCategories": [
+      "Paper Weaves"
+    ],
+    "Description": "Grey basket weave fibres",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural basket weave",
+    "Colors": {
+      "Gunmetal grey": "#808080"
+    },
+    "Images": [
+      "SKU PPWY016.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Paper Weaves",
+    "SKU": "PPWY017",
+    "ParentCategories": [
+      "Paper Weaves"
+    ],
+    "Description": "Gold foiled basket weave fibres",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural basket weave",
+    "Colors": {
+      "Gold": "#ffd700"
+    },
+    "Images": [
+      "SKU PPWY017.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Paper Weaves",
+    "SKU": "PPWY018",
+    "ParentCategories": [
+      "Paper Weaves"
+    ],
+    "Description": "Silver foiled basket weave fibres",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural basket weave",
+    "Colors": {
+      "Silver": "#c0c0c0"
+    },
+    "Images": [
+      "SKU PPWY018.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "Category": "Suits",
+    "SKU": "2425",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits 2425",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 2425.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "2485",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits 2485",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 2485.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "2486",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits 2486",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 2486.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "2538",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits 2538",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 2538.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "1457",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits Florida 1457",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 1457.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "1458",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits Florida 1458",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 1458.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "1459",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits Florida 1459",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU 1459.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "SHO04",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits SHO04",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU SHO04.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Suits",
+    "SKU": "SHO15",
+    "ParentCategories": [
+      "Standard Stock Ranges",
+      "Suits"
+    ],
+    "Description": "Suits SHO15",
+    "RollSize": "1.30m x 50.00m",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU SHO15.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Vinyl\nFully Washable\nExcellent Lightfastness\nPaste onto Wall"
+    ]
+  }
+]

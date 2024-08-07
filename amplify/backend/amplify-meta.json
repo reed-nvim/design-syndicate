@@ -1,0 +1,84 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-designsyndicate-dev-92e22-authRole",
+      "UnauthRoleArn": "arn:aws:iam::337084198105:role/amplify-designsyndicate-dev-92e22-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::337084198105:role/amplify-designsyndicate-dev-92e22-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-designsyndicate-dev-92e22-deployment",
+      "UnauthRoleName": "amplify-designsyndicate-dev-92e22-unauthRole",
+      "StackName": "amplify-designsyndicate-dev-92e22",
+      "StackId": "arn:aws:cloudformation:us-east-1:337084198105:stack/amplify-designsyndicate-dev-92e22/f4012ed0-4c69-11ef-88d6-0affeadd00ab",
+      "AmplifyAppId": "d3nw6afo2c94d8"
+    }
+  },
+  "api": {
+    "api0e62c100": {
+      "dependsOn": [
+        {
+          "attributes": [
+            "Name",
+            "Arn"
+          ],
+          "category": "function",
+          "resourceName": "DesignSyndicateContactEmailer"
+        }
+      ],
+      "providerPlugin": "awscloudformation",
+      "service": "API Gateway",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-designsyndicate-dev-92e22-deployment/amplify-cfn-templates/api/api0e62c100-cloudformation-template.json",
+        "logicalId": "apiapi0e62c100"
+      },
+      "lastPushTimeStamp": "2024-07-28T17:34:25.494Z",
+      "output": {
+        "ApiName": "api0e62c100",
+        "RootUrl": "https://jsz2xq3yzb.execute-api.us-east-1.amazonaws.com/dev",
+        "ApiId": "jsz2xq3yzb"
+      },
+      "lastPushDirHash": "sG7qUyiG0X3DUk1rttfPApHYe0c="
+    }
+  },
+  "function": {
+    "DesignSyndicateContactEmailer": {
+      "build": true,
+      "providerPlugin": "awscloudformation",
+      "service": "Lambda",
+      "lastBuildTimeStamp": "2024-07-28T15:54:26.727Z",
+      "lastBuildType": "PROD",
+      "lastPackageTimeStamp": "2024-07-28T15:54:28.155Z",
+      "distZipFilename": "DesignSyndicateContactEmailer-795167397946684b6c6a-build.zip",
+      "s3Bucket": {
+        "deploymentBucketName": "amplify-designsyndicate-dev-92e22-deployment",
+        "s3Key": "amplify-builds/DesignSyndicateContactEmailer-795167397946684b6c6a-build.zip"
+      },
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-designsyndicate-dev-92e22-deployment/amplify-cfn-templates/function/DesignSyndicateContactEmailer-cloudformation-template.json",
+        "logicalId": "functionDesignSyndicateContactEmailer"
+      },
+      "lastPushTimeStamp": "2024-07-28T17:34:25.497Z",
+      "output": {
+        "LambdaExecutionRoleArn": "arn:aws:iam::337084198105:role/designsyndicateLambdaRoled10634b5-dev",
+        "Region": "us-east-1",
+        "Arn": "arn:aws:lambda:us-east-1:337084198105:function:DesignSyndicateContactEmailer-dev",
+        "Name": "DesignSyndicateContactEmailer-dev",
+        "LambdaExecutionRole": "designsyndicateLambdaRoled10634b5-dev"
+      },
+      "lastPushDirHash": "yQg9yFhKljABp0GY2L6ZtF1zYdU="
+    }
+  },
+  "hosting": {
+    "amplifyhosting": {
+      "service": "amplifyhosting",
+      "providerPlugin": "awscloudformation",
+      "type": "manual",
+      "providerMetadata": {
+        "s3TemplateURL": "https://s3.amazonaws.com/amplify-designsyndicate-dev-92e22-deployment/amplify-cfn-templates/hosting/amplifyhosting-template.json",
+        "logicalId": "hostingamplifyhosting"
+      },
+      "lastPushTimeStamp": "2024-07-28T17:34:26.306Z",
+      "output": {},
+      "lastPushDirHash": "Jg1WAxKWtfUeTDr15agJGy0eCTA="
+    }
+  }
+}

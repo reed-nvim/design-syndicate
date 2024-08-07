@@ -1,0 +1,192 @@
+[
+  {
+    "Category": "Grass",
+    "SKU": "HS4W003",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to pale yellow base paper",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural",
+    "Colors": {
+      "Natural grass hues": "Color 'Natural grass hues' not found or not recognized."
+    },
+    "Images": [
+      "discontinued.png"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "HS4W012",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to pale yellow base paper, overprinted in black",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural",
+    "Colors": {
+      "Black brown": "#a52a2a"
+    },
+    "Images": [
+      "discontinued.png"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "HS4W015",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to pale yellow base paper, overprinted with metallic silver",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural",
+    "Colors": {
+      "Metallic sheen": "Color 'Metallic sheen' not found or not recognized."
+    },
+    "Images": [
+      "discontinued.png"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLX289",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Fine wood reeds striched to orange paper base",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural",
+    "Colors": {
+      "Orange": "#ffa500"
+    },
+    "Images": [
+      "SKU DLX289.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLX337ORIGINAL",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to pale coral base paper",
+    "RollSize": "25m x 0.91m",
+    "Styles": "Natural",
+    "Colors": {
+      "Natural grass hues": "Color 'Natural grass hues' not found or not recognized."
+    },
+    "Images": [
+      "SKU DLX337ORIGINAL.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLX337BLACK",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to black base paper",
+    "RollSize": "",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU DLX337BLACK.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLX337BLUE",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to blue base paper",
+    "RollSize": "",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU DLX337BLUE.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLX337RED",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to blue base paper",
+    "RollSize": "",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU DLX337RED.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLXJF104",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to base paper",
+    "RollSize": "",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU DLXJF104.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Grass",
+    "SKU": "DLXJR120",
+    "ParentCategories": [
+      "Grass"
+    ],
+    "Description": "Natural grasses stitch to base paper",
+    "RollSize": "",
+    "Styles": "",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU DLXJR120.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  }
+]

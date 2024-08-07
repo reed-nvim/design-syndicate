@@ -1,0 +1,94 @@
+[
+  {
+    "Category": "Fibreglass",
+    "SKU": "Cheetah GLTX 81502",
+    "ParentCategories": [
+      "Fibreglass",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Versatile paintable fibreglass wallcoverings suitable for high traffic areas",
+    "RollSize": "1.00m x 30.00m",
+    "Styles": "Paintable",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU Cheetah GLTX 81502.jpeg"
+    ],
+    "ExtraInformation": [
+      "Paper backed vinyl",
+      " Fully washable",
+      " Euro Standard",
+      " Excellent Lightfastness and Paste the Paper"
+    ]
+  },
+  {
+    "Category": "Fibreglass",
+    "SKU": "Rhino MITX 6456",
+    "ParentCategories": [
+      "Fibreglass",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Versatile paintable fibreglass wallcoverings suitable for high traffic areas",
+    "RollSize": "1.00m x 30.00m",
+    "Styles": "Paintable",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU Rhino MITX 6456.jpeg"
+    ],
+    "ExtraInformation": [
+      "Paper backed vinyl",
+      " Fully washable",
+      " Euro Standard",
+      " Excellent Lightfastness and Paste the Paper"
+    ]
+  },
+  {
+    "Category": "Fibreglass",
+    "SKU": "Elephant GLTX 81703",
+    "ParentCategories": [
+      "Fibreglass",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Versatile paintable fibreglass wallcoverings suitable for high traffic areas",
+    "RollSize": "1.00m x 25.00m",
+    "Styles": "Paintable",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU Elephant GLTX 81703.jpeg"
+    ],
+    "ExtraInformation": [
+      "Paper backed vinyl",
+      " Fully washable",
+      " Euro Standard",
+      " Excellent Lightfastness and Paste the Paper"
+    ]
+  },
+  {
+    "Category": "Fibreglass",
+    "SKU": "Leopard GLTX 81201",
+    "ParentCategories": [
+      "Fibreglass",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Versatile paintable fibreglass wallcoverings suitable for high traffic areas",
+    "RollSize": "1.00m x 25.00m",
+    "Styles": "Paintable",
+    "Colors": {
+      "": "Color '' not found or not recognized."
+    },
+    "Images": [
+      "SKU Leopard GLTX 81201.jpeg"
+    ],
+    "ExtraInformation": [
+      "Paper backed vinyl",
+      " Fully washable",
+      " Euro Standard",
+      " Excellent Lightfastness and Paste the Paper"
+    ]
+  }
+]

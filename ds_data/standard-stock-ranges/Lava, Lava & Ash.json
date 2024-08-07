@@ -1,0 +1,45 @@
+[
+  {
+    "Category": "Lava, Lava & Ash",
+    "SKU": "LASH11061",
+    "ParentCategories": [
+      "Lava",
+      "Lava & Ash",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Lava 11061 \u2013 White Silver",
+    "RollSize": "1.30m x 30.00m",
+    "Styles": "Silver",
+    "Colors": {
+      "White": "#ffffff"
+    },
+    "Images": [
+      "SKU LASH11061.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Non Woven\nWashable\nVery good Lightfastness\nOffset match\nPaste onto Wall"
+    ]
+  },
+  {
+    "Category": "Lava, Lava & Ash",
+    "SKU": "LASH11062",
+    "ParentCategories": [
+      "Lava",
+      "Lava & Ash",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Lava 11062 \u2013 White Gold",
+    "RollSize": "1.30m x 30.00m",
+    "Styles": "",
+    "Colors": {
+      "Gold": "#ffd700",
+      "White": "#ffffff"
+    },
+    "Images": [
+      "SKU LASH11062.jpeg"
+    ],
+    "ExtraInformation": [
+      "Material: Non Woven\nWashable\nVery good Lightfastness\nOffset match\nPaste onto Wall"
+    ]
+  }
+]

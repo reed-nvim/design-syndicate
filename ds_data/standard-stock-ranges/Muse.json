@@ -1,0 +1,814 @@
+[
+  {
+    "Category": "Muse",
+    "SKU": "MU1011",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "SKU MU1011.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3211",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc"
+    },
+    "Images": [
+      "SKU MU3211.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3405",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Brown": "#a52a2a",
+      "Burnt Orange": "#ffa500"
+    },
+    "Images": [
+      "SKU MU3405.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1105",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Brown": "#a52a2a",
+      "Burnt Orange": "#ffa500",
+      "Gold": "#ffd700"
+    },
+    "Images": [
+      "SKU MU1105.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3005",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Brown": "#a52a2a"
+    },
+    "Images": [
+      "SKU MU3005.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3105",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Brown": "#a52a2a"
+    },
+    "Images": [
+      "SKU MU3105.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3213",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "SKU MU3213.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1013",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "SKU MU1013.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3306",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Blue": "#0000ff"
+    },
+    "Images": [
+      "SKU MU3306.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1106",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Green": "#008000"
+    },
+    "Images": [
+      "SKU MU1106.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3106",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Blue": "#0000ff"
+    },
+    "Images": [
+      "SKU MU3106.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3206",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Blue": "#0000ff"
+    },
+    "Images": [
+      "SKU MU3206.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3006",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Blue": "#0000ff",
+      "Gold": "#ffd700"
+    },
+    "Images": [
+      "SKU MU3006.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3404",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc"
+    },
+    "Images": [
+      "SKU MU3404.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3104",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "SKU MU3104.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3204",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "SKU MU3204.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3007",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Silver": "#c0c0c0"
+    },
+    "Images": [
+      "SKU MU3007.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1204",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Grey": "#808080"
+    },
+    "Images": [
+      "SKU MU1204.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1201",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "White": "#ffffff"
+    },
+    "Images": [
+      "SKU MU1201.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3207",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Grey": "#808080"
+    },
+    "Images": [
+      "SKU MU3207.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1007",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Grey": "#808080"
+    },
+    "Images": [
+      "SKU MU1007.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1107",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Grey": "#808080"
+    },
+    "Images": [
+      "SKU MU1107.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1109",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Brown": "#a52a2a",
+      "Red": "#ff0000"
+    },
+    "Images": [
+      "SKU MU1109.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3409",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Red": "#ff0000"
+    },
+    "Images": [
+      "SKU MU3409.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3120",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Yellow": "#ffff00"
+    },
+    "Images": [
+      "SKU MU3120.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3009",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Red": "#ff0000"
+    },
+    "Images": [
+      "SKU MU3009.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3309",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Red": "#ff0000"
+    },
+    "Images": [
+      "SKU MU3309.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1009",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Pink": "#ffc0cb"
+    },
+    "Images": [
+      "SKU MU1009.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3209",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Red": "#ff0000"
+    },
+    "Images": [
+      "SKU MU3209.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3101",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Whites": "Color 'Whites' not found or not recognized."
+    },
+    "Images": [
+      "SKU MU3101.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3102",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "SKU MU3102.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1002",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Cream": "#FFFDD0"
+    },
+    "Images": [
+      "SKU MU1002.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3002",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Whites": "Color 'Whites' not found or not recognized."
+    },
+    "Images": [
+      "SKU MU3002.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1202",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc"
+    },
+    "Images": [
+      "SKU MU1202.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1102",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc"
+    },
+    "Images": [
+      "SKU MU1102.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3408",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Blue": "#0000ff",
+      "Brown": "#a52a2a"
+    },
+    "Images": [
+      "SKU MU3408.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1113",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc"
+    },
+    "Images": [
+      "SKU MU1113.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3008",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Blue": "#0000ff"
+    },
+    "Images": [
+      "SKU MU3008.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU3308",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc",
+      "Blue": "#0000ff",
+      "Brown": "#a52a2a"
+    },
+    "Images": [
+      "SKU MU3308.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "Muse",
+    "SKU": "MU1213",
+    "ParentCategories": [
+      "Muse",
+      "Standard Stock Ranges"
+    ],
+    "Description": "Technical Information\nScrubbable, Good Light Fastness, Paste onto Wall, Strippable",
+    "RollSize": "0.53 X 10.00M",
+    "Styles": "",
+    "Colors": {
+      "Beige": "#f5f5dc"
+    },
+    "Images": [
+      "SKU MU1213.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  }
+]

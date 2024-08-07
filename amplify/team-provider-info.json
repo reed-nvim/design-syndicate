@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-designsyndicate-dev-92e22-authRole",
+      "UnauthRoleArn": "arn:aws:iam::337084198105:role/amplify-designsyndicate-dev-92e22-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::337084198105:role/amplify-designsyndicate-dev-92e22-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-designsyndicate-dev-92e22-deployment",
+      "UnauthRoleName": "amplify-designsyndicate-dev-92e22-unauthRole",
+      "StackName": "amplify-designsyndicate-dev-92e22",
+      "StackId": "arn:aws:cloudformation:us-east-1:337084198105:stack/amplify-designsyndicate-dev-92e22/f4012ed0-4c69-11ef-88d6-0affeadd00ab",
+      "AmplifyAppId": "d3nw6afo2c94d8"
+    },
+    "categories": {
+      "function": {
+        "DesignSyndicateContactEmailer": {
+          "deploymentBucketName": "amplify-designsyndicate-dev-92e22-deployment",
+          "s3Key": "amplify-builds/DesignSyndicateContactEmailer-795167397946684b6c6a-build.zip"
+        }
+      },
+      "api": {
+        "api0e62c100": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d3nw6afo2c94d8",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

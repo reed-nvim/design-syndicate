@@ -1,0 +1,97 @@
+[
+  {
+    "Category": "String",
+    "SKU": "PSRS010",
+    "ParentCategories": [
+      "String"
+    ],
+    "Description": "Natural dried grasses glued to black textured semi-gloss paper base",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural gloss",
+    "Colors": {
+      "Cream and black": "#000000"
+    },
+    "Images": [
+      "SKU PSRS010.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "String",
+    "SKU": "PSRS001",
+    "ParentCategories": [
+      "String"
+    ],
+    "Description": "Natural dried grasses glued to grey textured semi-gloss paper base",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Natural gloss",
+    "Colors": {
+      "Cream and grey": "#808080"
+    },
+    "Images": [
+      "SKU PSRS001.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "String",
+    "SKU": "PSRS122",
+    "ParentCategories": [
+      "String"
+    ],
+    "Description": "Grey tinted natural grasses glued to silver foil paper base",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Grasses",
+    "Colors": {
+      "Grey and silver": "#c0c0c0"
+    },
+    "Images": [
+      "SKU PSRS122.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "String",
+    "SKU": "PSRS127",
+    "ParentCategories": [
+      "String"
+    ],
+    "Description": "Silver foiled grasses glued to natural paper base",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Grasses",
+    "Colors": {
+      "Silver foil": "Color 'Silver foil' not found or not recognized."
+    },
+    "Images": [
+      "SKU PSRS127.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  },
+  {
+    "Category": "String",
+    "SKU": "PSRS110",
+    "ParentCategories": [
+      "String"
+    ],
+    "Description": "Coffee tinted natural grasses glued to bronze foil paper base",
+    "RollSize": "9m x 0.91m",
+    "Styles": "Grasses",
+    "Colors": {
+      "Coffee and bronze": "Color 'Coffee and bronze' not found or not recognized."
+    },
+    "Images": [
+      "SKU PSRS110.jpeg"
+    ],
+    "ExtraInformation": [
+      ""
+    ]
+  }
+]
